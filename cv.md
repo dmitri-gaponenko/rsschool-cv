@@ -34,3 +34,17 @@ _Summing a number's digits (Groovy)_
       return result
     }
 ```
+
+### Work experience
+
+- **Senior Software Engineer** at **Scand**, _2014 - current time_
+- **Software Engineer** at **Scand**, _2011 - 2014_
+
+### Education
+
+- **Belarusian State University of Informatics and Radioelectronics**
+  - Specialist degree, Information systems and technologies, _2007 - 2012_
+
+### Languages
+
+* **English** - B1 Intermediate
